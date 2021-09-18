@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [AsyncAPI optimizer](https://github.com/asyncapi/optimizer)
 
-- 🌱 I’m currently learning **Svelte**
+- 🌱 I’m currently learning **Responsive web developement**
 
 - 💬 Ask me about **NestJS, SQL Server, Postgres, NodeJS, MongoDB**
 
